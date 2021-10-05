@@ -4,7 +4,7 @@ Note that this tool can only crack .zip files.
 Please DO not misuse.
 # Installation
 ```
-git clone https://github.com/Bzip.git
+git clone https://github.com/4anonz/Bzip.git
 cd Bzip
 pip3 install -r requirements.txt
 python3 bzip.py
